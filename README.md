@@ -28,3 +28,4 @@ def circulate():
 # Output:
 ![output](/Screenshot%202023-10-23%20140029.png)
 ## Result:
+Circulate the values of N variables are successfully executed
