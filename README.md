@@ -25,6 +25,6 @@ def circulate():
     out=l[n:]+l[:n]
     print("After circulating the values are: {}".format(out))
 ```
-## Output:
+# Output:
 ![output](/Screenshot%202023-10-23%20140029.png)
 ## Result:
