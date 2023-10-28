@@ -26,7 +26,8 @@ def circulate():
     print("After circulating the values are: {}".format(out))
 ```
 # Output:
-![output](https://github.com/ksanthosh2805/Circulate-the-values-of-N-variables/assets/85092922/55ef8048-6ff4-4d51-bee8-f49a1bee44f9)
+![output](https://github.com/ksanthosh2805/Circulate-the-values-of-N-variables/assets/85092922/611c3961-bc00-48cf-9f8d-50fd1befbcc3)
+
 
 ## Result:
 Circulate the values of N variables are successfully executed
